@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 2.0.0-alpha1
+
+* Re-release as separate lib (no longer dependent on Symfony Framework)
+
 ### 1.1.0 (????-??-??)
 
  * efcc6c9 - Add dedicated exception

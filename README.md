@@ -2,8 +2,10 @@
 
 [![Build Status](https://secure.travis-ci.org/widop/WidopGoogleAnalyticsBundle.png)](http://travis-ci.org/widop/WidopGoogleAnalyticsBundle)
 
-The `WidopGoogleAnalyticsBundle` provides a way to use certificate-based authentication in server-to-server
+The `WidopGoogleAnalytics` package provides a way to use certificate-based authentication in server-to-server
 interactions with google analytics.
+
+This is a rewrite of the former `WidopGoogleAnalyticsBundle`, no longer dependent on `symfony-framework`.
 
 In other words, no user interaction will be required thanks to the "PKCS 12" certificate and you will be able to
 automate your google analytics authentication and authorization processes as well as the way of querying the

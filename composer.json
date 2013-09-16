@@ -2,7 +2,7 @@
     "name": "widop/google-analytics-bundle",
     "description": "Google certificate-based authentication in server-to-server interactions with google analytics",
     "keywords": [ "google", "analytics", "server" ],
-    "type": "symfony-bundle",
+    "type": "lib",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,6 @@
         }
     ],
     "require": {
-        "symfony/framework-bundle": "2.*",
         "widop/http-adapter-bundle": "1.0.*"
     },
     "require-dev": {
